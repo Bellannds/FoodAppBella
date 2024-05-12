@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <string name="section_menu">Pilihan Menu</string>
+    <string name="menu_home">Food</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_drink">Drink</string>
+    <string name="back">Back</string>
+</resources>
